@@ -1,0 +1,18 @@
+1. install python-pip / sudo apt-get install python-pip
+
+2. pip install django
+
+
+
+## Go to command prompt
+
+django-admin.py startproject project_name
+
+cd project_name
+
+python manage.py runserver
+
+
+# ctrl + C to stop the server
+
+

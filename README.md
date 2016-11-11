@@ -33,4 +33,13 @@ For getting started with Django, follow these steps:
 
 
 
+# Learn More About Python
+
+## Books
+One of the good reads for Python is : [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+
+## Courses
+[Python course on codecademy](https://www.codecademy.com/learn/python)
+[Python course on Coursera](https://www.coursera.org/learn/python)
+[Python course on Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
